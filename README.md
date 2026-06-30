@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Linked List
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/324fahim/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
