@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/324fahim/leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/324fahim/leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/324fahim/leetcode/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/324fahim/leetcode/tree/master/0087-scramble-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/324fahim/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/324fahim/leetcode/tree/master/0087-scramble-string) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/324fahim/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Matrix
 |  |
