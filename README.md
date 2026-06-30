@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-bitwise-ors-of-subarrays](https://github.com/324fahim/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/324fahim/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 ## Sliding Window
 |  |
@@ -71,9 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 ## Enumeration
 |  |
 | ------- |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
+## Counting
+|  |
+| ------- |
+| [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 <!---LeetCode Topics End-->
