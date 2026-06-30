@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/324fahim/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/324fahim/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/324fahim/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/324fahim/leetcode/tree/master/0051-n-queens) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/324fahim/leetcode/tree/master/0035-search-insert-position) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Bit Manipulation
 |  |
