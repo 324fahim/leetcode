@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/324fahim/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/324fahim/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1301-number-of-paths-with-max-score](https://github.com/324fahim/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/324fahim/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/324fahim/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/324fahim/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1301-number-of-paths-with-max-score](https://github.com/324fahim/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
+| [1301-number-of-paths-with-max-score](https://github.com/324fahim/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/324fahim/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Two Pointers
 |  |
