@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/324fahim/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/324fahim/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/324fahim/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/324fahim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/324fahim/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/324fahim/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/324fahim/leetcode/tree/master/0076-minimum-window-substring) |
 | [0645-set-mismatch](https://github.com/324fahim/leetcode/tree/master/0645-set-mismatch) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/324fahim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/324fahim/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/324fahim/leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/324fahim/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/324fahim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 ## Enumeration
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/324fahim/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/324fahim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
