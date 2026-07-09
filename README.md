@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/324fahim/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/324fahim/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/324fahim/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/324fahim/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
 ## Merge Sort
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/324fahim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
+| [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
 ## Enumeration
 |  |
 | ------- |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/324fahim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
