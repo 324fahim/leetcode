@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/324fahim/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/324fahim/leetcode/tree/master/0052-n-queens-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/324fahim/leetcode/tree/master/2151-maximum-good-people-based-on-statements) |
 ## Math
