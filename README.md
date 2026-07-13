@@ -257,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/324fahim/leetcode/tree/master/0140-word-break-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/324fahim/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
