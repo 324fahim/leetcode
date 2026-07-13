@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/324fahim/leetcode/tree/master/1291-sequential-digits) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/324fahim/leetcode/tree/master/2151-maximum-good-people-based-on-statements) |
 ## Counting
