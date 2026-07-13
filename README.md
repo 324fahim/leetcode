@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/324fahim/leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/324fahim/leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/324fahim/leetcode/tree/master/0115-distinct-subsequences) |
+| [0564-find-the-closest-palindrome](https://github.com/324fahim/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/324fahim/leetcode/tree/master/0060-permutation-sequence) |
+| [0564-find-the-closest-palindrome](https://github.com/324fahim/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [3272-find-the-count-of-good-integers](https://github.com/324fahim/leetcode/tree/master/3272-find-the-count-of-good-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/324fahim/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
