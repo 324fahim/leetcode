@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3614-process-string-with-special-operations-ii](https://github.com/324fahim/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/324fahim/leetcode/tree/master/0068-text-justification) |
 | [1929-concatenation-of-array](https://github.com/324fahim/leetcode/tree/master/1929-concatenation-of-array) |
+| [3614-process-string-with-special-operations-ii](https://github.com/324fahim/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Tree
 |  |
 | ------- |
