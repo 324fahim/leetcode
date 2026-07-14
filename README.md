@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/324fahim/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/324fahim/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/324fahim/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/324fahim/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/324fahim/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/324fahim/leetcode/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-bitwise-ors-of-subarrays](https://github.com/324fahim/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1301-number-of-paths-with-max-score](https://github.com/324fahim/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/324fahim/leetcode/tree/master/0042-trapping-rain-water) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 | [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -224,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/324fahim/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/324fahim/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -241,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/324fahim/leetcode/tree/master/0044-wildcard-matching) |
 | [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bitmask
 |  |
 | ------- |
