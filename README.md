@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/324fahim/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/324fahim/leetcode/tree/master/0140-word-break-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/324fahim/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/324fahim/leetcode/tree/master/0174-dungeon-game) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/324fahim/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/324fahim/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/324fahim/leetcode/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/324fahim/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/324fahim/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/324fahim/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
