@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/324fahim/leetcode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/324fahim/leetcode/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/324fahim/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/324fahim/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/324fahim/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/324fahim/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/324fahim/leetcode/tree/master/0645-set-mismatch) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/324fahim/leetcode/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/324fahim/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/324fahim/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/324fahim/leetcode/tree/master/0645-set-mismatch) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0282-expression-add-operators](https://github.com/324fahim/leetcode/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/324fahim/leetcode/tree/master/0335-self-crossing) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/324fahim/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0564-find-the-closest-palindrome](https://github.com/324fahim/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1840-maximum-building-height](https://github.com/324fahim/leetcode/tree/master/1840-maximum-building-height) |
 | [3272-find-the-count-of-good-integers](https://github.com/324fahim/leetcode/tree/master/3272-find-the-count-of-good-integers) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/324fahim/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/324fahim/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/324fahim/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Data Stream
 |  |
 | ------- |
@@ -396,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/324fahim/leetcode/tree/master/0336-palindrome-pairs) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/324fahim/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
