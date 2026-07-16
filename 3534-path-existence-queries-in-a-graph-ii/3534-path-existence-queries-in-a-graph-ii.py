@@ -7,7 +7,7 @@ class Solution(object):
         :type queries: List[List[int]]
         :rtype: List[int]
         """
-        pairs = sorted((nums[i], i) for i in range(n))
+        pairs = sorted((x, i) for i, x in enumerate(nums))
 
         LOG = 20
         jump = [[0] * LOG for _ in range(n)]
@@ -16,9 +16,11 @@ class Solution(object):
         for l in range(n - 1, -1, -1):
             while pairs[r][0] - pairs[l][0] > maxDiff:
                 r -= 1
+
             u = pairs[l][1]
             v = pairs[r][1]
             jump[u][0] = v
+
             for k in range(1, LOG):
                 jump[u][k] = jump[jump[u][k - 1]][k - 1]
 
@@ -37,9 +39,10 @@ class Solution(object):
                 continue
 
             dist = 0
+
             for k in range(LOG - 1, -1, -1):
                 if nums[jump[u][k]] < nums[v]:
-                    dist += 1 << k
+                    dist |= 1 << k
                     u = jump[u][k]
 
             if nums[jump[u][0]] < nums[v]:
