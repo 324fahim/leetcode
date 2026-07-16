@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/324fahim/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/324fahim/leetcode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/324fahim/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0335-self-crossing](https://github.com/324fahim/leetcode/tree/master/0335-self-crossing) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/324fahim/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/324fahim/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/324fahim/leetcode/tree/master/0645-set-mismatch) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/324fahim/leetcode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0282-expression-add-operators](https://github.com/324fahim/leetcode/tree/master/0282-expression-add-operators) |
+| [0335-self-crossing](https://github.com/324fahim/leetcode/tree/master/0335-self-crossing) |
 | [0564-find-the-closest-palindrome](https://github.com/324fahim/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1840-maximum-building-height](https://github.com/324fahim/leetcode/tree/master/1840-maximum-building-height) |
 | [3272-find-the-count-of-good-integers](https://github.com/324fahim/leetcode/tree/master/3272-find-the-count-of-good-integers) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/324fahim/leetcode/tree/master/0335-self-crossing) |
 ## Queue
 |  |
 | ------- |
