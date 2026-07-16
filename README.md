@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/324fahim/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/324fahim/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/324fahim/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/324fahim/leetcode/tree/master/0174-dungeon-game) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/324fahim/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/324fahim/leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/324fahim/leetcode/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/324fahim/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/324fahim/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/324fahim/leetcode/tree/master/0645-set-mismatch) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/324fahim/leetcode/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0564-find-the-closest-palindrome](https://github.com/324fahim/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1840-maximum-building-height](https://github.com/324fahim/leetcode/tree/master/1840-maximum-building-height) |
 | [3272-find-the-count-of-good-integers](https://github.com/324fahim/leetcode/tree/master/3272-find-the-count-of-good-integers) |
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/324fahim/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/324fahim/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
