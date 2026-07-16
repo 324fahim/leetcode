@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/324fahim/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/324fahim/leetcode/tree/master/0336-palindrome-pairs) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/324fahim/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/324fahim/leetcode/tree/master/0645-set-mismatch) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/324fahim/leetcode/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/324fahim/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0327-count-of-range-sum](https://github.com/324fahim/leetcode/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/324fahim/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/324fahim/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/324fahim/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/324fahim/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/324fahim/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -362,10 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/324fahim/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/324fahim/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/324fahim/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/324fahim/leetcode/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Topological Sort
 |  |
 | ------- |
