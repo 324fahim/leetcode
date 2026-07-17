@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/324fahim/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/324fahim/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/324fahim/leetcode/tree/master/0262-trips-and-users) |
+| [0620-not-boring-movies](https://github.com/324fahim/leetcode/tree/master/0620-not-boring-movies) |
 ## Number Theory
 |  |
 | ------- |
