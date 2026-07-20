@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/324fahim/leetcode/tree/master/0645-set-mismatch) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/324fahim/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1260-shift-2d-grid](https://github.com/324fahim/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/324fahim/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/324fahim/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/324fahim/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/324fahim/leetcode/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/324fahim/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/324fahim/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/324fahim/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/324fahim/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/324fahim/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/324fahim/leetcode/tree/master/0068-text-justification) |
+| [1260-shift-2d-grid](https://github.com/324fahim/leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/324fahim/leetcode/tree/master/1929-concatenation-of-array) |
 | [3614-process-string-with-special-operations-ii](https://github.com/324fahim/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/324fahim/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
