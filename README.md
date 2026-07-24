@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/324fahim/leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/324fahim/leetcode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0282-expression-add-operators](https://github.com/324fahim/leetcode/tree/master/0282-expression-add-operators) |
