@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/324fahim/leetcode/tree/master/0391-perfect-rectangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/324fahim/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/324fahim/leetcode/tree/master/0645-set-mismatch) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/324fahim/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/324fahim/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/324fahim/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/324fahim/leetcode/tree/master/0391-perfect-rectangle) |
 | [0564-find-the-closest-palindrome](https://github.com/324fahim/leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/324fahim/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1840-maximum-building-height](https://github.com/324fahim/leetcode/tree/master/1840-maximum-building-height) |
 | [2485-find-the-pivot-integer](https://github.com/324fahim/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3272-find-the-count-of-good-integers](https://github.com/324fahim/leetcode/tree/master/3272-find-the-count-of-good-integers) |
