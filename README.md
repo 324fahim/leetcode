@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/324fahim/leetcode/tree/master/0391-perfect-rectangle) |
 | [0564-find-the-closest-palindrome](https://github.com/324fahim/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1840-maximum-building-height](https://github.com/324fahim/leetcode/tree/master/1840-maximum-building-height) |
+| [2485-find-the-pivot-integer](https://github.com/324fahim/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3272-find-the-count-of-good-integers](https://github.com/324fahim/leetcode/tree/master/3272-find-the-count-of-good-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/324fahim/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/324fahim/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/324fahim/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/324fahim/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/324fahim/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
