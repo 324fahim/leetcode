@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/324fahim/leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/324fahim/leetcode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/324fahim/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0263-ugly-number](https://github.com/324fahim/leetcode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/324fahim/leetcode/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/324fahim/leetcode/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/324fahim/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
