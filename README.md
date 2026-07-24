@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/324fahim/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/324fahim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/324fahim/leetcode/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/324fahim/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/324fahim/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1840-maximum-building-height](https://github.com/324fahim/leetcode/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/324fahim/leetcode/tree/master/1929-concatenation-of-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/324fahim/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/324fahim/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/324fahim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/324fahim/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/324fahim/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1840-maximum-building-height](https://github.com/324fahim/leetcode/tree/master/1840-maximum-building-height) |
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
