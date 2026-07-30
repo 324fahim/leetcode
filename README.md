@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/324fahim/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/324fahim/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/324fahim/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/324fahim/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1840-maximum-building-height](https://github.com/324fahim/leetcode/tree/master/1840-maximum-building-height) |
 | [2485-find-the-pivot-integer](https://github.com/324fahim/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3272-find-the-count-of-good-integers](https://github.com/324fahim/leetcode/tree/master/3272-find-the-count-of-good-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/324fahim/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/324fahim/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/324fahim/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/324fahim/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bitmask
 |  |
