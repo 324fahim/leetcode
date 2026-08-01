@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/324fahim/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/324fahim/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/324fahim/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/324fahim/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3272-find-the-count-of-good-integers](https://github.com/324fahim/leetcode/tree/master/3272-find-the-count-of-good-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/324fahim/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/324fahim/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/324fahim/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/324fahim/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/324fahim/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/324fahim/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/324fahim/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/324fahim/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bitmask
 |  |
