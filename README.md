@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/324fahim/leetcode/tree/master/2151-maximum-good-people-based-on-statements) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/324fahim/leetcode/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/324fahim/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2463-minimum-total-distance-traveled](https://github.com/324fahim/leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/324fahim/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/324fahim/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/324fahim/leetcode/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/324fahim/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/324fahim/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/324fahim/leetcode/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 ## Backtracking
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/324fahim/leetcode/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/324fahim/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/324fahim/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/324fahim/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
