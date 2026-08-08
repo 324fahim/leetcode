@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/324fahim/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/324fahim/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/324fahim/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/324fahim/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/324fahim/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/324fahim/leetcode/tree/master/1406-stone-game-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/324fahim/leetcode/tree/master/2463-minimum-total-distance-traveled) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/324fahim/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/324fahim/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/324fahim/leetcode/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/324fahim/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/324fahim/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/324fahim/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/324fahim/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/324fahim/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bitmask
 |  |
