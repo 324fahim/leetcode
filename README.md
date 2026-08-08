@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/324fahim/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/324fahim/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/324fahim/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/324fahim/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/324fahim/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/324fahim/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/324fahim/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/324fahim/leetcode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/324fahim/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/324fahim/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Backtracking
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/324fahim/leetcode/tree/master/0330-patching-array) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/324fahim/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/324fahim/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/324fahim/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2551-put-marbles-in-bags](https://github.com/324fahim/leetcode/tree/master/2551-put-marbles-in-bags) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
