@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/324fahim/leetcode/tree/master/1982-find-array-given-subset-sums) |
 | [2122-recover-the-original-array](https://github.com/324fahim/leetcode/tree/master/2122-recover-the-original-array) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/324fahim/leetcode/tree/master/2151-maximum-good-people-based-on-statements) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/324fahim/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/324fahim/leetcode/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/324fahim/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/324fahim/leetcode/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/324fahim/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/324fahim/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/324fahim/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/324fahim/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/324fahim/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/324fahim/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/324fahim/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/324fahim/leetcode/tree/master/0327-count-of-range-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/324fahim/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/324fahim/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/324fahim/leetcode/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/324fahim/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/324fahim/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Topological Sort
 |  |
 | ------- |
